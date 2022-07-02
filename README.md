@@ -2,7 +2,7 @@
 Python base multiplayer game
 
 
-## Steps
+## Steps [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 1. Open "all_in_one.py" python file
 2. Config your server details
 ![This is an image](https://github.com/RanushMithila/Tic-Tac-Toe/blob/main/src/server.png)
