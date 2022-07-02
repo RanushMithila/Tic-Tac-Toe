@@ -1,3 +1,4 @@
+#Ranush Mithila
 from http import client
 import socket
 import threading
@@ -126,4 +127,5 @@ class TicTacToe:
             
 game = TicTacToe()
 game.choose_type()
+
 
