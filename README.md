@@ -1,6 +1,9 @@
 # Tic-Tac-Toe
 Python base multiplayer game
 
+## Language
+
+![Python](https://skills.thijs.gg/icons?i=python)
 
 ## Steps
 1. Open "all_in_one.py" python file
